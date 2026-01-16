@@ -2,7 +2,7 @@
 
 # Hi there, I'm Alejandro Hernández 👋
 
-## Computer Science Student at UPM<div><a href="https://www.upm.es"><img src="https://www.etsit.upm.es/fileadmin/user_upload/LOGOTIPO_leyenda_color_PNG.png" height="100" alt="UPM"/></a></div>
+## Computer Science Student at UPM<div><a href="https://www.upm.es"><img src="https://ametic.es/wp-content/uploads/2023/04/LOGOTIPO-leyenda-color-PNG-p-1024x475.png" height="100" alt="UPM"/></a></div>
 
 </div>
 
@@ -32,7 +32,7 @@
 <a href=mailto:alejandro.hsanchez@alumnos.upm.es>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href=www.linkedin.com/in/alejandro-hernández-sánchez-55320724b>
+<a href=https://www.linkedin.com/in/alejandro-hernández-sánchez-55320724b>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
