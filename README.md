@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,apple,java,c,bash,html,linux,matlab,mysql,ocaml,py,r" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,ocaml,bash,html,matlab,mysql,r,git,apple,linux&perline=4" />
   </a>
 </p>
